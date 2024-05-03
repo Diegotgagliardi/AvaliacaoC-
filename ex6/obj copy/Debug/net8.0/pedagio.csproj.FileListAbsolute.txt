@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\bin\Debug\net8.0\pedagio.exe
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\bin\Debug\net8.0\pedagio.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\bin\Debug\net8.0\pedagio.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\bin\Debug\net8.0\pedagio.dll
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\bin\Debug\net8.0\pedagio.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.sourcelink.json
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.dll
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\refint\pedagio.dll
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\pedagio.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\Topicos-especiais-de-Sistemas\Aula6\pedagio\obj\Debug\net8.0\ref\pedagio.dll
